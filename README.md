@@ -1,4 +1,4 @@
-README – Simple Python HTTP Server & Client Project
+#README – Simple Python HTTP Server & Client Project
 
 
 This project demonstrates a basic HTTP server and client system using Python’s socket programming. It includes three Python scripts:
